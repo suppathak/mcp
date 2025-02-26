@@ -389,3 +389,8 @@ Feel free to ask it questions such as:
 
 * How many Job Templates are available?
 * How many VMs are on my OpenShift cluster?
+
+
+## References
+
+[Claude Desktop Quickstart for Server Developers](https://modelcontextprotocol.io/quickstart/server)
