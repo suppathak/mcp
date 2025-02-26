@@ -25,7 +25,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 Install [jbang](https://www.jbang.dev/download/) which will be used when using the Kubernetes MCP Server.
 
-Restart your terminal to ensure that the `uv` and `jbang` comamnd are now available.
+Restart your terminal to ensure that the `uv` and `jbang` command are now available.
 
 ## Step Two: Create and Setup your Project
 
