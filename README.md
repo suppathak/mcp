@@ -468,7 +468,7 @@ EDA_URL = os.getenv("EDA_URL")
 EDA_TOKEN = os.getenv("EDA_TOKEN")
 
 if not EDA_TOKEN:
-    raise ValueError("EDA_TOKEN environment variable is required")
+    raise ValueError("EDA_TOKEN is required")
 
 # Headers for API authentication
 HEADERS = {
