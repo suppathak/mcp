@@ -393,6 +393,7 @@ Feel free to ask it questions such as:
 * How many Job Templates are available?
 * How many VMs are on my OpenShift cluster?
 
+NOTE: It is very likely you will need to take advantage of the Claude Desktop Pro Plan in order to get the full functionality. 
 
 ## References
 
