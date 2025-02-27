@@ -366,7 +366,10 @@ Open the `claude_desktop_config.json` , which on MacOS is located at
 ```
 Save the file.
 
+WARNING: Absolute path to your `uv` binary is required. Do a `which uv` on your system to get the full path. 
+
 NOTE: If you need to create the AAP_TOKEN, go to the AAP Dashboard, select Access Management -> Users -> <your_user> -> Tokens -> Create token -> Select the Scope dropdown and select 'Write' and click Create token.
+
 
 
 ## Step 5: Re-Launch Claude Desktop 
