@@ -272,4 +272,4 @@ async def list_recent_jobs(hours: int = 24) -> Any:
     return await make_request(f"{AAP_URL}/jobs/?created__gte={time_filter}")
 
 if __name__ == "__main__":
-    mcp.run(transport="stdio")
+    mcp.run(transport="sse")
